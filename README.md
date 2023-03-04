@@ -1,6 +1,6 @@
 <div style="text-align: center;">
     <h1>Financial Inclusion in Africa</h1>
-    <img src="./images/financial_inclusion.jpg" style="width: 80%">    
+    <img src="./images/financial_Inclusion.jpg" style="width: 80%">    
 </div>
 
 ## Project Overview
@@ -94,6 +94,9 @@ We observe that that we have four countries-Kenya and Rwanda. Rwanda has the maj
 
 **Bar chart showing distribution of bank account ownership in various job types**
 ![inclusion](./images/job_account.png)
+
+
+
 
 Besides Formally employed people, it's clear that regardless of the type of employment, people who have bank accounts are much less compared to those who do not have bank accounts
 
