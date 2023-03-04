@@ -13,8 +13,6 @@ Financial inclusion remains one of the main obstacles to economic and human deve
 
 Traditionally, access to bank accounts has been regarded as an indicator of financial inclusion. Despite the proliferation of mobile money in Africa, and the growth of innovative fintech solutions, banks still play a pivotal role in facilitating access to financial services. Access to bank accounts enable households to save and make payments while also helping businesses build up their credit-worthiness and improve their access to loans, insurance, and related services. Therefore, access to bank accounts is an essential contributor to long-term economic growth.
   
-## Data Understanding
-The Telco customer churn data contains information about a fictional telecommunications company that provided home phone and Internet services to 7032 customers in California in Q3. The training dataset contains 7032 samples, each with 21 features and one Boolean variable, "churn," that indicates the class of the sample.
 
 ### Main Objective
 
@@ -94,6 +92,11 @@ We observe that that we have four countries-Kenya and Rwanda. Rwanda has the maj
 
 **Bar chart showing distribution of bank account ownership in various job types**
 ![inclusion](./images/job_account.png)
+
+
+
+
+
 
 
 
