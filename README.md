@@ -88,7 +88,7 @@ From the plot we notice a class imbalace issue, which we try to sort later on wi
 
 **Distribution of countries**
 
-![inclusion](./images/job_account.png)
+![inclusion](./images/country.png)
 
 We observe that that we have four countries-Kenya and Rwanda. Rwanda has the majority entries followed by Tanzania, Kenya, then Uganda respectively
 
